@@ -17,6 +17,7 @@
 - Cryptography
 - Machine Learning
 - DSA
+  
 [^1]: Specific in backend development
 
 ## Extra curricular Activites
